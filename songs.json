@@ -1,0 +1,41 @@
+{
+    "song1" : {
+       "song" : "Les Toreadors",
+       "artist" : "Georges Bizet",
+       "genre" : "Classical",
+       "link": "https://www.youtube.com/watch?v=4DNGMoMNLRY",
+       "id": 1
+    },
+    
+    "song2" : {
+        "song" : "Believe in my existence",
+        "artist" : "JAM Project",
+        "genre" : "Anime-based rock",
+        "link": "https://www.youtube.com/watch?v=IDAGFctn5Bo",
+        "id": 2
+    },
+    
+    "song3" : {
+        "song" : "決戦スピリット",
+        "artist" : "CHiCO with HoneyWorks",
+        "genre" : "Japanese Pop",
+        "link": "https://www.youtube.com/watch?v=ErqUUYWfOBo",
+        "id": 3
+    },
+
+    "song4" : {
+        "song" : "Murder In My Mind",
+        "artist" : "Kordhell",
+        "genre" : "Hip-Hop/Rap",
+        "link": "https://www.youtube.com/watch?v=w-sQRS-Lc9k",
+        "id": 4
+     },
+
+     "song5" : {
+        "song" : "My Ordinary Life",
+        "artist" : "The Living Tombstone",
+        "genre" : "Folktronica",
+        "link": "Hip-Hop/Rap, Dance/Electronic",
+        "id": 5
+     }
+ }
